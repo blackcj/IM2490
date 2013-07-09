@@ -1,0 +1,30 @@
+.num {
+	width:100px;
+	height:60px;
+	font-size:32pt;	
+	margin:5px;
+	font-family:'Inconsolata';
+}
+
+#textField {
+	float:right;
+}
+
+#output {
+	
+	font-size:40pt;	
+	padding:5px;
+	font-family:'Inconsolata';
+}
+
+#wrapper {
+	width:330px;	
+}
+
+#output {
+	margin:5px;
+	height:60px;
+	background-color:#fff;	
+	border-style:inset;
+	border-width:2px;
+}
